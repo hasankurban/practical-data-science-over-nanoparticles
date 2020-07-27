@@ -1,5 +1,5 @@
 # @Dr. Kurban, July 2020
-# For any questions, please contact hakurban@gmai.com
+# For any questions, please contact hakurban@gmail  .com
 ##########################################################################################
 #                          ORDER PARAMETER FIGURES
 ##########################################################################################
