@@ -54,7 +54,7 @@ brookite.Ti<- ggplot(data=data2, aes(x=value, y = Ti, colour = variable, group =
         panel.grid.minor = element_blank(), axis.line = element_line(colour = "black")
       ) +  annotate("text", x = -7, y = 1.6315, label = "Brookite",fontface=2)+  theme(legend.position = "none")
 ##########################################################################################
-#anatase
+#rutile
 data3 <- read.table("./rutile_all_geometries/rutile.txt",header = T)
 data3 <- data3[,c(2,3,5)]
 order.data3 <- read.table("./rutile_all_geometries/orderParameter3.txt",header = T)
